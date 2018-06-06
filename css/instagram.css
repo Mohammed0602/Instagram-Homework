@@ -1,0 +1,49 @@
+.Instagram {
+    float: left;
+    width: 50%;
+    padding: 10px;
+
+}
+.logo {
+  float:right;
+  text-align: center;
+  padding: 10px;
+  width: 45%;
+
+
+}
+.mark {
+  color: blue;
+  text-align: center;
+
+}
+
+}
+P {
+  text-align: center;
+}
+.Details {
+  text-align: center;
+
+}
+h1 {
+  text-align: center;
+  color: grey;
+
+}
+h3 {
+  text-align: center;
+  color: grey;
+  font-size: 12px;
+}
+body {
+  background-color: lightgrey;
+}
+.Android {
+  float: right;
+  width: 29%;
+  
+}
+h4 {
+  text-align: center;
+}
