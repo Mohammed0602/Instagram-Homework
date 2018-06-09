@@ -1,49 +1,59 @@
-.Instagram {
-    float: left;
-    width: 50%;
-    padding: 10px;
-
-}
-.logo {
-  float:right;
-  text-align: center;
-  padding: 10px;
-  width: 45%;
-
-
-}
-.mark {
-  color: blue;
-  text-align: center;
-
-}
-
-}
-P {
+/* .Sign-Up {
+  background-color: white;
+  border-radius: 5px;
+  width: 350px;
+  height: 650px;
   text-align: center;
 }
-.Details {
-  text-align: center;
 
-}
-h1 {
+.account {
+  background-color: white;
+  border-radius: 5px;
+  width: 350px;
+  height: 95px;
   text-align: center;
+}
+section{
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
+aside {
+  margin-bottom: gray;
+  font-size: 18px;
+  width: 30%;
+}
+aside, section {
+  display: inline-block;
+  vertical-align: top;
+}
+
+p {
+  font-size: 15px;
   color: grey;
+  text-align: center;
+} */
+
+
+/* @media screen and (max-width: 100px) {
+  section {
+    display: none;
+  }
+  aside {
+    width: 95%;
+    float: none;
+    margin-top: 20px;
+    display: inline-block to image;
+    margin-left: 200px;
+  }
+  footer {
+    display: none;
+  }
+}
 
 }
-h3 {
-  text-align: center;
-  color: grey;
-  font-size: 12px;
-}
-body {
-  background-color: lightgrey;
-}
-.Android {
-  float: right;
-  width: 29%;
-  
-}
-h4 {
-  text-align: center;
-}
+
+@media screen and (max-width: 600px) {
+  aside {
+    margin-left: 40px;
+  }
+} */
